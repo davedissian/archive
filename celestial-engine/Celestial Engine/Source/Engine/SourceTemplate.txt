@@ -1,0 +1,16 @@
+/*
+	Celestial Engine
+	Created by SerialVelocity
+*/
+#include "celestialBase.h"
+#include "ceXXX.h" // Subsystem implimented
+
+// Includes
+
+// Global Variables
+
+ceBEGIN
+
+// Class Member Definitions
+
+ceEND

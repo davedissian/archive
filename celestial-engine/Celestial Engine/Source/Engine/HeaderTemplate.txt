@@ -1,0 +1,13 @@
+/*
+	Celestial Engine
+	Created by SerialVelocity
+*/
+#pragma once
+
+// Includes
+
+ceBEGIN
+
+// Class Declarations
+
+ceEND
